@@ -32,7 +32,7 @@ This project demonstrates how to analyze and simulate information spread in a la
    - Set your API key as an environment variable `GRAPHISTRY_API_KEY` or directly in the notebook
 
 5. **Run the Notebook**
-   - Open `Copy_of_MSML606_Final_code_GPU.ipynb`
+   - Open `InformationSpread.ipynb`
    - Run all cells in order
 
 ## Citation
